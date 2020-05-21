@@ -1,2 +1,2 @@
 # simplechatmachine
-A very simple chat machine using java
+A project to send messages to multiple clients through a server developed by Java.
